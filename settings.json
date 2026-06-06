@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Luka_Mladja_Kosta.aternos.me",
+    "ip": "Luka_Mladja_Kosta.aternos.me:55852",
     "port": 55852,
-    "version":"",
+    "version":"26.1.2",
     "try-creative": false
   },
   "position": {
