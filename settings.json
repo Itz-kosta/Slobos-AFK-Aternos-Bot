@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "cigan",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "Luka_Mladja_Kosta.aternos.me:55852",
     "port": 55852,
-    "version":21.1.2"",
+    "version":"",
     "try-creative": false
   },
   "position": {
